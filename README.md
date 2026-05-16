@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Soumya 👋
 
-<!--
-**Soumya-205/Soumya-205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE (Data Science) · 3rd year · India  
+Building things with Python, C++, and a bit of curiosity about how machines learn.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### GitHub stats
+
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-205&theme=default&hide_border=true)
+
+---
+
+### Currently
+
+- Solving 3 DSA problems daily (arrays → strings → hashmaps)
+- Building a movie recommender system with Python + Flask
+- Looking for summer internships in data science / SWE
+
+---
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-shradha-164443327)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumyashradha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soumyashradha449@gmail.com)
+
