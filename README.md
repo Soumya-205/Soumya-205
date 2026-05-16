@@ -18,15 +18,15 @@ Building things with Python, C++, and a bit of curiosity about how machines lear
 
 ### GitHub stats
 
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=default&hide_border=true)
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-205&theme=default&hide_border=true)
 
 ---
 
 ### Currently
 
-- Solving 3 DSA problems daily (arrays → strings → hashmaps)
-- Building a movie recommender system with Python + Flask
+- Solving 3 DSA problems daily (Hackerrank + Leetcode)
+- Exploring ML and backend development
 - Looking for summer internships in data science / SWE
 
 ---
