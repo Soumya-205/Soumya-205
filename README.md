@@ -18,7 +18,7 @@ Building things with Python, C++, and a bit of curiosity about how machines lear
 
 ### GitHub stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumya-205&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-205&theme=default&hide_border=true)
 
 ---
