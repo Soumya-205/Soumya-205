@@ -19,11 +19,11 @@ Building things with Python, C++, and a bit of curiosity about how machines lear
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true&v=1" />
 </p>
 ---
 
