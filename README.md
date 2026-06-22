@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Soumya%20Shradha&fontSize=42&fontColor=fff&fontAlignY=45&desc=BTech%20CSE%20(Data%20Science)%20·%20Manipal%20University%20Jaipur&descAlignY=68&descSize=14&descColor=ccd6f6" />
 
-I build AI-powered applications — from RAG pipelines and LLM-based recommenders to conversational agents for real-world problems.
+I build AI-powered applications—from RAG pipelines and LLM-based recommenders to conversational agents for real-world problems—while leveraging data science, machine learning, and analytics to create intelligent, data-driven solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-shradha-164443327)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumyashradha)
