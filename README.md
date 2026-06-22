@@ -1,75 +1,64 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Soumya%20Shradha&fontSize=42&fontColor=fff&fontAlignY=45&desc=BTech%20CSE%20(Data%20Science)%20·%20Manipal%20University%20Jaipur&descAlignY=68&descSize=14&descColor=ccd6f6" />
 
-```
- ___  ___  ___  ___  ___  ___  ___     ___  ___  ___  ___  ___  ___  ___  ___ 
- building things at the intersection of AI × systems × real problems
-```
-
-# Soumya Shradha
-**BTech CSE (Data Science) · Manipal University Jaipur · India**
-
-*I build AI-powered systems — from RAG pipelines and LLM-based recommenders*
-*to banking agents. Currently learning distributed systems.*
+I build AI-powered applications — from RAG pipelines and LLM-based recommenders to conversational agents for real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-shradha-164443327)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumyashradha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soumyashradha449@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soumyashradha449@gmail.com)
 
 ---
 
-## 🛠️ What I've Built
+### What I've built
 
-### 🏦 [ArthaSetu](https://github.com/Soumya-205/ArthaSetu) &nbsp;`in progress`
-> AI banking agent tackling the customer acquisition & adoption gap in Indian banks
+**[ArthaSetu](https://github.com/Soumya-205/ArthaSetu)** `in progress`
+An AI banking agent that bridges the customer acquisition gap in Indian banks — guiding first-time users through products, eligibility, and onboarding using RAG and LLMs.
 
-A conversational agent that guides first-time banking customers — answering product queries, onboarding flows, and financial FAQs using RAG + LLMs. Built with real empathy for the 190M+ unbanked population in India.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-`Python` `LangChain` `RAG` `Flask` `LLM`
+**[Moodify](https://github.com/Soumya-205/Moodify)**
+Mood-based movie and music recommender. Type how you feel → LLaMA3 detects your mood → cosine similarity on 9,200 Spotify tracks and TMDB movies returns personalised picks.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLaMA3](https://img.shields.io/badge/LLaMA3-6D28D9?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🎵 [Moodify](https://github.com/Soumya-205/Moodify)
-> AI-powered mood-based movie & music recommender
+**[RAG Pipeline](https://github.com/Soumya-205/RAG_PROJECT)**
+Query any PDF using local LLMs — no cloud, no API costs. Built with LangChain, ChromaDB, and Ollama for fully offline document Q&A.
 
-Type how you feel in natural language → LLaMA3 detects your mood → ML engine returns personalised picks from 9,200 Spotify tracks + TMDB movies. Full-stack with cosine similarity, audio feature vectors, and live poster fetching.
-
-`Python` `Flask` `LLaMA3` `Ollama` `Scikit-learn` `Kaggle` `TMDB API`
-
----
-
-### 📄 [RAG Pipeline](https://github.com/Soumya-205/RAG_PROJECT)
-> Query any PDF using local LLMs — no cloud, no API costs
-
-Built a complete Retrieval-Augmented Generation system from scratch. Upload a PDF, ask questions in natural language, get grounded answers. Uses ChromaDB for vector storage and Ollama to run LLMs locally.
-
-`LangChain` `ChromaDB` `Ollama` `Flask` `Python`
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
 
-## 🧠 Tech Stack
+### Tech stack
 
-```
-Languages   →  Python · C++ · Java
-AI / ML     →  LangChain · LLaMA3 · Ollama · Scikit-learn · Pandas · RAG
-Backend     →  Flask · REST APIs · Sockets
-Databases   →  ChromaDB · Vector Stores
-Currently   →  Distributed Systems · Concurrency · System Design
-```
-
----
-
-## 📈 Currently
-
-- 🔨 Building **ArthaSetu** — AI agent for banking customer adoption
-- 🌐 Learning **distributed systems** — building a KV store from scratch
-- 💻 Solving **3 DSA problems daily** on LeetCode + HackerRank
-- 🎯 Targeting **SWE internships** for 2027 (Google, systems-focused roles)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### Currently
+
+- 🔨 Building **ArthaSetu** — AI agent for banking customer onboarding
+- 💻 Solving 3 DSA problems daily on LeetCode + HackerRank
+- 🎯 Looking for **Data Science** and **SWE** internships for Summer 2027
+
+---
+
+### GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&v=1" />
@@ -78,9 +67,8 @@ Currently   →  Distributed Systems · Concurrency · System Design
   <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" />
 
-<div align="center">
-  <sub>⚡ always building · always curious</sub>
-</div>
+
+
   
