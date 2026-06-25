@@ -17,6 +17,13 @@ An AI banking agent that bridges the customer acquisition gap in Indian banks �
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
+**[DeVault](https://github.com/Soumya-205/DeVault)** `in progress`
+A distributed key-value store built from scratch — raw sockets, threading, consistent hashing, and fault tolerance across multiple nodes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-000000?style=flat-square&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0078D4?style=flat-square&logoColor=white)
+
 **[Moodify](https://github.com/Soumya-205/Moodify)**
 Mood-based movie and music recommender. Type how you feel → LLaMA3 detects your mood → cosine similarity on 9,200 Spotify tracks and TMDB movies returns personalised picks.
 
