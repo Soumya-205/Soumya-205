@@ -68,10 +68,10 @@ Query any PDF using local LLMs — no cloud, no API costs. Built with LangChain,
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&v=2" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" />
