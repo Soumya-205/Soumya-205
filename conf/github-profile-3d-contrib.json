@@ -1,12 +1,11 @@
 [
     {
-        "type": "normal",
+        "type": "gitblock",
         "fileName": "profile-cyan.svg",
         "backgroundColor": "#0d1117",
         "foregroundColor": "#00f0ff",
         "strongColor": "#00e5ff",
         "weakColor": "#0b3d44",
-        "radarColor": "#22d3ee",
         "growingAnimation": true,
         "contribColors": [
             "#0b2a30",
