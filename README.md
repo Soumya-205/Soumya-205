@@ -11,21 +11,21 @@ I build AI-powered applications—from RAG pipelines and LLM-based recommenders 
 ### What I've built
 
 **[ArthaSetu](https://github.com/Soumya-205/ArthaSetu)** `in progress`
-An AI banking agent that bridges the customer acquisition gap in Indian banks — guiding first-time users through products, eligibility, and onboarding using RAG and LLMs.
+An AI banking agent that bridges the customer acquisition gap in Indian banks-guiding first-time users through products, eligibility, and onboarding using RAG and LLMs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **[DeVault](https://github.com/Soumya-205/DeVault)** `in progress`
-A distributed key-value store built from scratch — raw sockets, threading, consistent hashing, and fault tolerance across multiple nodes.
+A distributed key-value store built from scratch-raw sockets, threading, consistent hashing, and fault tolerance across multiple nodes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Sockets](https://img.shields.io/badge/Sockets-000000?style=flat-square&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0078D4?style=flat-square&logoColor=white)
 
 **[Moodify](https://github.com/Soumya-205/Moodify)**
-Mood-based movie and music recommender. Type how you feel → LLaMA3 detects your mood → cosine similarity on 9,200 Spotify tracks and TMDB movies returns personalised picks.
+Mood-based movie and music recommender. Type how you feel->LLaMA3 detects your mood->cosine similarity on 9,200 Spotify tracks and TMDB movies returns personalised picks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLaMA3](https://img.shields.io/badge/LLaMA3-6D28D9?style=flat-square&logoColor=white)
@@ -33,7 +33,7 @@ Mood-based movie and music recommender. Type how you feel → LLaMA3 detects you
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **[RAG Pipeline](https://github.com/Soumya-205/RAG_PROJECT)**
-Query any PDF using local LLMs — no cloud, no API costs. Built with LangChain, ChromaDB, and Ollama for fully offline document Q&A.
+Query any PDF using local LLMs-no cloud, no API costs. Built with LangChain, ChromaDB, and Ollama for fully offline document Q&A.
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
@@ -59,7 +59,7 @@ Query any PDF using local LLMs — no cloud, no API costs. Built with LangChain,
 
 ### Currently
 
-- 🔨 Building **ArthaSetu** — AI agent for banking customer onboarding
+- 🔨 Building **ArthaSetu**-AI agent for banking customer onboarding
 - 💻 Solving 3 DSA problems daily on LeetCode + HackerRank
 - 🎯 Looking for **Data Science** and **SWE** internships for Summer 2027
 
