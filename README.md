@@ -59,6 +59,7 @@ Query any PDF using local LLMs-no cloud, no API costs. Built with LangChain, Chr
 
 ### Currently
 
+- 🏆 Selected for **Amazon ML Summer School 2026** (merit-based national selection)
 - 🔨 Building **ArthaSetu**-AI agent for banking customer onboarding
 - 💻 Solving 3 DSA problems daily on LeetCode + HackerRank
 - 🎯 Looking for **Data Science** and **SWE** internships for Summer 2027
