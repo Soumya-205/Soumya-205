@@ -17,7 +17,7 @@ An AI banking agent that bridges the customer acquisition gap in Indian banks-gu
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**[DeVault](https://github.com/Soumya-205/DeVault)** `in progress`
+**[DeVault](https://github.com/Soumya-205/DeVault)** 
 A distributed key-value store built from scratch-raw sockets, threading, consistent hashing, and fault tolerance across multiple nodes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
