@@ -17,11 +17,12 @@ An AI banking agent that bridges the customer acquisition gap in Indian banks-gu
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**[DeVault](https://github.com/Soumya-205/DeVault)** 
-A distributed key-value store built from scratch-raw sockets, threading, consistent hashing, and fault tolerance across multiple nodes.
+**[DeVault](https://github.com/Soumya-205/DeVault)**
+A distributed key-value store built from scratch — consistent hashing, replication, heartbeat detection, automatic failover, and a live React dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Sockets](https://img.shields.io/badge/Sockets-000000?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0078D4?style=flat-square&logoColor=white)
 
 **[Moodify](https://github.com/Soumya-205/Moodify)**
