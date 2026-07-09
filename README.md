@@ -74,7 +74,7 @@ Query any PDF using local LLMs-no cloud, no API costs. Built with LangChain, Chr
   <img src="https://github-readme-stats-ten-ruddy-49.vercel.app/api?username=Soumya-205&show_icons=true&theme=tokyonight&v=3" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-205&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ### Activity
