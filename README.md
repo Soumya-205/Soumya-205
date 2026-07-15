@@ -78,12 +78,10 @@ Query any PDF using local LLMs-no cloud, no API costs. Built with LangChain, Chr
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Soumya-205&theme=tokyonight" />
 </p>
 
-### 🏆 LeetCode Achievement
+### Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soumya-205/Soumya-205/main/assets/badge.png""
-       alt="LeetCode 50 Days Badge 2026"
-       width="220"/>
+  <img src="badge1.png" width="180" alt="LeetCode 50 Days Badge">
 </p>
 
 ### Activity
