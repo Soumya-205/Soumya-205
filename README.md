@@ -80,8 +80,8 @@ Query any PDF using local LLMs-no cloud, no API costs. Built with LangChain, Chr
 
 ### Badges
 
-<p align="center">
-  <img src="badge1.png" width="180" alt="LeetCode 50 Days Badge">
+<p align="left">
+  <img src="Remove background project - July 16, 2026 at 01.47.04.png" width="180" alt="LeetCode 50 Days Badge">
 </p>
 
 ### Activity
