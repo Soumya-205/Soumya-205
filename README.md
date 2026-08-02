@@ -10,7 +10,7 @@ I build AI-powered applications-from RAG pipelines and LLM-based recommenders to
 
 ### What I've built
 
-**[ArthaSetu](https://github.com/Soumya-205/ArthaSetu)** `in progress`
+**[ArthaSetu](https://github.com/Soumya-205/ArthaSetu)** 
 An AI banking agent that bridges the customer acquisition gap in Indian banks-guiding first-time users through products, eligibility, and onboarding using RAG and LLMs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
